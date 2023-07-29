@@ -1,0 +1,38 @@
+.Form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #CCCCCC;
+    border-radius: 10px;
+}
+
+.Form-field {
+    margin-bottom: 20px;
+}
+
+.Form-field label {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.Form-field input{
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #CCCCCC;
+    border-radius: 4px;
+}
+
+.Form-button {
+    display: block;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #EEAD2D;
+    border-color: #EEAD2D;
+    color: #FFFFFF;
+}
+
+.Form-button:hover {
+    background-color: #FFF000;
+    border-color: #FFF000;
+}

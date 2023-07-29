@@ -1,0 +1,26 @@
+.Details {
+    margin-outside: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    display: flex;
+    gap: 40px;
+}
+
+.Details-picture img{
+    width: 500px;
+    height: 500px;
+}
+
+.Details-info {
+    text-align: justify;
+}
+
+.Edit-link{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #CCCCCC;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
